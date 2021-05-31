@@ -70,6 +70,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       return 'Please Fill Password Input';
                     }
                   },
+                  obscureText: true,
                 ),
                 SizedBox(
                   height: 25,
