@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "532276623825",
+    "project_id": "fir-backend-15c61",
+    "storage_bucket": "fir-backend-15c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532276623825:android:77874f923a03537c4248f0",
+        "android_client_info": {
+          "package_name": "com.example.travel_light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532276623825-ik19k7o7h1kjiop5mjf3cgehvruqmjpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hjzo92Ti0jT69XfUYrgloUKQNVXd_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532276623825-ik19k7o7h1kjiop5mjf3cgehvruqmjpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532276623825:android:710489effad2aff84248f0",
+        "android_client_info": {
+          "package_name": "com.example.vacation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532276623825-ik19k7o7h1kjiop5mjf3cgehvruqmjpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hjzo92Ti0jT69XfUYrgloUKQNVXd_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532276623825-ik19k7o7h1kjiop5mjf3cgehvruqmjpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
